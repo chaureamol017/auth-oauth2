@@ -11,7 +11,7 @@
 	<groupId>com.mycomp.security</groupId>
 	<artifactId>spring-boot-Oauth2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-Oauth2</name>
+	<name>auth-oauth2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
